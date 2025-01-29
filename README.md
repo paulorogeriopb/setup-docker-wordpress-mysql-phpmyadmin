@@ -2,8 +2,6 @@
 Seteup para Wordpress em docker swarm
 
 
-
-
 version: '3.8'
 
 services:
@@ -59,4 +57,4 @@ volumes:
 
 networks:
   wp_network:
-
+        
